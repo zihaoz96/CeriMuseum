@@ -1,4 +1,4 @@
-# musée du CERI
+# Musée du CERI
 
 
 ## Introduction 
