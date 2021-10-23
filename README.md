@@ -1,7 +1,7 @@
 # musée du CERI
 
 
-## Itroduction 
+## Introduction 
 Le CERI a rassemblé quelques ordinateurs anciens et autres artefacts du passé del’informatique, cette application montre ces ordinateurs anciens pour les étudiants visitenten ligne, il se compose par le nom, la marque, la description, les techniques etc. Affichagetrès détaillé de ces artefacts
 
 
