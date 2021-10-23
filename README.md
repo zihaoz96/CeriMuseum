@@ -1,8 +1,8 @@
 # musée du CERI
 
 
-## troductionLe 
-CERI a rassemblé quelques ordinateurs anciens et autres artefacts du passé del’informatique, cette application montre ces ordinateurs anciens pour les étudiants visitenten ligne, il se compose par le nom, la marque, la description, les techniques etc. Affichagetrès détaillé de ces artefacts
+## Itroduction 
+Le CERI a rassemblé quelques ordinateurs anciens et autres artefacts du passé del’informatique, cette application montre ces ordinateurs anciens pour les étudiants visitenten ligne, il se compose par le nom, la marque, la description, les techniques etc. Affichagetrès détaillé de ces artefacts
 
 
 ## Charger les donées des objets
@@ -11,7 +11,7 @@ La première fois que vous utilisez l’APP, il vous sera demandé le droit de s
 Je crée un class de ObjetMusee et un class de Category, pour chaque objet qui enregistre les donées en type String (transforme array à un String, séparateur par ";"), c'est plus facile pour l'affichage.  
 
 
-## implémentation de l’interface
+## Implémentation de l’interface
 L'interface est principalement réalisée par Fragment, je construre 3 fragments. Les utilisateurs pouvent glise l'écran à gauche ou à droit afin de changer le fragment.
 
 ### Affichage de l’objet
