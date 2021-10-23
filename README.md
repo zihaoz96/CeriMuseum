@@ -12,14 +12,14 @@ Les informations sur la collections sont obtenus en faisant des requêtes asynch
 
 L'interface graphique a était réaliser en utilisant Android et ce voit segmenté en un ensemble de Fragments indépendants les uns des autres.
 
-![Preview](mus-e-du-ceri-master/img/objet.png)
+![Preview](ceriMuseum/img/objet.png)
 
 Les objets sont présenté sous la forme de cartes ayant: une image en miniature, les catégories auxquelles il appartient, le nom et la marque du produit. L'utilisateur à la possibilité d'obtenir une description détailler d'un produit en cliquant sur la carte. 
 
 Cette liste peut être triée par ordre alphabétique, être parcourut à l'aide d'une bar de recherche et affiner avec d'autres critaires comme l'année de commercialisation, les catégories d'appartenance, etc ... .
 
-![Preview](mus-e-du-ceri-master/img/recherche.png)
+![Preview](ceriMuseum/img/recherche.png)
 
-![Preview](mus-e-du-ceri-master/img/categorie.png)
+![Preview](ceriMuseum/img/categorie.png)
 
-![Preview](mus-e-du-ceri-master/img/detail.png)
+![Preview](ceriMuseum/img/detail.png)
